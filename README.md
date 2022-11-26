@@ -1,3 +1,3 @@
 - 👋 Olá, eu sou o @nathan-zx.
 - </> Tecnologias por mim usadas: JavaScript, HTML 5, CSS 3 e React.js   
-- Falo português e inglês.
+- Falo português e um pouco de inglês.

@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @nathan-zx
+- 👀 I’m interested in: JavaScript, HTML 5, CSS 3 e React.js   
